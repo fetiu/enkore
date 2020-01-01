@@ -1,6 +1,6 @@
 # enkore
 
-> **En**glish **Ko**rean **re**versing converter
+> **En**glish **Ko**rean **Re**version
 
 enkore는 한글-영어 간 변환기입니다.
 
